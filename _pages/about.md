@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Full Professor of Computer Science, Ph.D. in Computer & Systems Engineering, IEEE Senior Member, ACM Distinguished Speaker.
 
 profile:
   align: right
