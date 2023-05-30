@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects
-permalink: 
+permalink: /projects/
 description: under construction...
 nav: true
 nav_order: 2
