@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: Full Professor of Computer Science, Ph.D. in Computer & Systems Engineering, IEEE Senior Member, ACM Distinguished Speaker.
 
